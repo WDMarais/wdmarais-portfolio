@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/wdmarais-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/wdmarais-portfolio/static/js/main.389a038b.js",
+    "static/js/787.dd6be3bd.chunk.js": "/wdmarais-portfolio/static/js/787.dd6be3bd.chunk.js",
+    "static/media/logo.svg": "/wdmarais-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/wdmarais-portfolio/index.html",
+    "main.073c9b0a.css.map": "/wdmarais-portfolio/static/css/main.073c9b0a.css.map",
+    "main.389a038b.js.map": "/wdmarais-portfolio/static/js/main.389a038b.js.map",
+    "787.dd6be3bd.chunk.js.map": "/wdmarais-portfolio/static/js/787.dd6be3bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.389a038b.js"
+  ]
+}
