@@ -1,6 +1,6 @@
-import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Counter } from "./Counter";
 
 function App() {
   return (
@@ -19,6 +19,18 @@ function App() {
           Learn React
         </a>
       </header>
+      <body>
+        <div>
+          <Counter>
+            {({ count, setCount }) => (
+              <div>
+                {count}
+                <button onClick={() => setCount(count + 1)}>+</button>
+              </div>
+            )}
+          </Counter>
+        </div>
+      </body>
     </div>
   );
 }
